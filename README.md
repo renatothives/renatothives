@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN">
+  <a href="https://linkedin.com/in/renatothives">
     <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>

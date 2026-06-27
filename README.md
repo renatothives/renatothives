@@ -72,16 +72,6 @@ Também estou expandindo meu conhecimento em **Java**, com foco em desenvolvimen
 
 ---
 
-## Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=renatothives&show_icons=true&theme=github_dark&hide_border=true"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatothives&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
 <p align="center">
   <i>Migrando de Delphi pra Java, sem pressa e sem deixar a base esquecer onde pisa.</i>
 </p>

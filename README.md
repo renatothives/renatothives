@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```md
 <p align="center">
   <strong>Backend Developer • Delphi • PHP • Oracle PL/SQL • Docker</strong>
 </p>
@@ -32,16 +31,16 @@ Here are some ideas to get you started:
 
 ## O que faço
 
-Trabalho no desenvolvimento e evolução de sistemas corporativos, equilibrando a manutenção de aplicações legadas com a implementação de novas funcionalidades.
+Trabalho no desenvolvimento e evolução de sistemas corporativos no setor de **saúde suplementar** — Unimed, autogestão e administradoras de benefícios — equilibrando a manutenção de aplicações legadas com a implementação de novas funcionalidades.
 
 Minha atuação é voltada para ambientes onde **estabilidade, performance e regras de negócio** são tão importantes quanto a entrega de novas soluções.
 
 No dia a dia utilizo principalmente:
 
-- 💻 **Delphi** para manutenção e evolução de sistemas legados
-- 🌐 **PHP** para aplicações web
-- 🗄️ **Oracle PL/SQL** para desenvolvimento e otimização de regras de negócio
-- 🐳 **Docker** para padronização de ambientes e deploy
+- 💻 **Delphi** para desenvolvimento, manutenção e evolução de sistemas corporativos
+- 🌐 **PHP** para desenvolvimento e modernização de aplicações web
+- 🗄️ **Oracle PL/SQL** para modelagem, consultas e otimização de bancos de dados
+- 🐳 **Docker** para padronização de ambientes de desenvolvimento e deploy
 
 Também estou expandindo meu conhecimento em **Java**, com foco em desenvolvimento backend, APIs REST e arquiteturas modernas.
 
@@ -66,15 +65,10 @@ Também estou expandindo meu conhecimento em **Java**, com foco em desenvolvimen
 ## Atualmente
 
 - 🚀 Evoluindo sistemas corporativos em Delphi e PHP
-- 🗄️ Desenvolvendo e otimizando regras de negócio em Oracle PL/SQL
+- 🧩 Desenvolvendo regras de negócio para aplicações corporativas
+- 🗄️ Modelando, consultando e otimizando bancos de dados Oracle com PL/SQL
 - 🐳 Padronizando ambientes com Docker
 - ☕ Estudando Java para desenvolvimento backend
-
----
-
-## Projetos em destaque
-
-Em breve, alguns projetos que representam minha forma de desenvolver software.
 
 ---
 
@@ -89,6 +83,5 @@ Em breve, alguns projetos que representam minha forma de desenvolver software.
 ---
 
 <p align="center">
-  <i>Interessado em desenvolvimento backend, sistemas legados, arquitetura de software e modernização de aplicações.</i>
+  <i>Migrando de Delphi pra Java, sem pressa e sem deixar a base esquecer onde pisa.</i>
 </p>
-```

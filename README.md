@@ -75,9 +75,9 @@ Também estou expandindo meu conhecimento em **Java**, com foco em desenvolvimen
 ## Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=renatothives&show_icons=true&theme=github_dark&hide_border=true"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatothives&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
